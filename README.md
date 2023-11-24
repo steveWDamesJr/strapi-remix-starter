@@ -63,7 +63,7 @@ In the root of our project we have our `seed-data.tar.gz` file. We will use it t
   yarn strapi import -f ../seed-data.tar.gz
 ```
 
-![after-import](https://user-images.githubusercontent.com/6153188/231865491-05cb5818-a0d0-49ce-807e-a879f7e3070c.gif)
+![after-import](https://user-images.githubusercontent.com/6153188/231865491-05cb5818-a0d0-49ce-807e-a8 79f7e3070c.gif)
 
 This will import your data locally. Log back into your admin panel to see the newly imported data.
 
